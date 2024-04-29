@@ -1,7 +1,5 @@
 # trabajo-final-integrador
 
-Por supuesto, aquí tienes un ejemplo simplificado de un informe para tu trabajo final integrador:
-
 Informe: Trabajo Final Integrador - IDW Check In
 Introducción
 El presente informe detalla el desarrollo del proyecto de Trabajo Final Integrador para la asignatura de Programación I. El objetivo del proyecto es desarrollar un sitio web de reservas de alojamiento llamado "IDW Check In".
